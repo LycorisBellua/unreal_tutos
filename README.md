@@ -1,62 +1,23 @@
-# Unreal Engine 5 tutorials
+# Unreal Engine 5 Tutorials
 
-[Link to the download page (Itch.io)](https://lycorisbellua.itch.io/unreal-tutos)  
+A collection of mini-games built following UE5 tutorials. All projects were made with version 5.3.2. I've also renamed them, and have added a few features here and there.  
 
-### Speed Fire
+**[Download the games on Itch.io](https://lycorisbellua.itch.io/unreal-tutos)**  
 
-[Link to the video (YouTube)](https://www.youtube.com/watch?v=D7V08711XVw)  
+## 3D Games
 
-3D FPS mini-game made with Unreal Engine 5.3.2. The goal is to shoot all the targets before the timer runs out.  
+| Screenshot | Title | Genre | Goal | Made with | Video |
+|:-:|---|---|---|:-:|:-:|
+| <img src="./speed-fire/screenshot.png" width="220"> | Speed Fire | FPS | Shoot all the targets before the timer runs out. | Blueprint | [Watch](https://www.youtube.com/watch?v=D7V08711XVw) |
+| <img src="./tumble/screenshot.png" width="220"> | Tumble | Physics | Knock everything over! | Blueprint | [Watch](https://www.youtube.com/watch?v=x4kxfi7gX9g) |
+| <img src="./descending-dude/screenshot.png" width="220"> | Descending Dude | Obstacle course | Don't fall off! | C++ | [Watch](https://www.youtube.com/watch?v=fpU7Z0kwa-8) |
+| <img src="./professional-yoinker/screenshot.png" width="220"> | Professional Yoinker | Exploration | Enter crypt, yoink golden statue, profit. | C++ | [Watch](https://www.youtube.com/watch?v=YyCMjWYiZ-E) |
+| *Screenshot coming soon* | Cara Mia | Shooter | Destroy all the turrets! | C++ | *Coming soon* |
 
-Blueprint project made following a beginner Unreal [tutorial video](https://www.youtube.com/watch?v=1XjgLKrb4_M) by Unreal Sensei.  
+## Credits
 
-![](./speed-fire/screenshot.png)
-
-### Tumble
-
-[Link to the video (YouTube)](https://www.youtube.com/watch?v=x4kxfi7gX9g)  
-
-3D physics mini-game made with Unreal Engine 5.3.2. Knock everything over!  
-
-Blueprint project made following a beginner Unreal tutorial course by Gamedev.tv:  
-[UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games)  
-superseded by [new version](https://gamedev.tv/courses/unreal-c-dev).  
-
-![](./tumble/screenshot.png)
-
-### Descending Dude
-
-[Link to the video (YouTube)](https://www.youtube.com/watch?v=fpU7Z0kwa-8)  
-
-3D obstacle mini-game made with Unreal Engine 5.3.2. Don't fall off!  
-
-C++ project made following a beginner Unreal tutorial course by Gamedev.tv:  
-[UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games)  
-superseded by [new version](https://gamedev.tv/courses/unreal-c-dev).  
-
-![](./descending-dude/screenshot.png)
-
-### Professional Yoinker
-
-[Link to the video (YouTube)](https://www.youtube.com/watch?v=YyCMjWYiZ-E)  
-
-3D exploration mini-game made with Unreal Engine 5.3.2. Enter crypt, yoink golden statue, profit.  
-
-C++ project made following a beginner Unreal tutorial course by Gamedev.tv:  
-[UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games)  
-superseded by [new version](https://gamedev.tv/courses/unreal-c-dev).  
-
-![](./professional-yoinker/screenshot.png)
-
-### Cara Mia
-
-Link to the video (YouTube)  
-
-3D shooter mini-game made with Unreal Engine 5.3.2. Destroy all the turrets!  
-
-C++ project made following a beginner Unreal tutorial course by Gamedev.tv:  
-[UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games)  
-superseded by [new version](https://gamedev.tv/courses/unreal-c-dev).  
-
-- Insert screenshot here :D  
+| Projects | Tutorial |
+|---|---|
+| Speed Fire | [Unreal Engine 5 beginner tutorial](https://www.youtube.com/watch?v=1XjgLKrb4_M) by Unreal Sensei |
+| Tumble, Descending Dude, Professional Yoinker, Cara Mia | [UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games) by GameDev.tv (since superseded by a [new version](https://gamedev.tv/courses/unreal-c-dev)) |
 
