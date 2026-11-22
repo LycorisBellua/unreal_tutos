@@ -2,13 +2,13 @@
 
 A collection of mini-games built following UE5 tutorials. All projects were made with version 5.3.2. I've picked the names myself, and have added a few features here and there.  
 
-**[Download the games on Itch.io](https://lycorisbellua.itch.io/unreal-tutos)**  
+**[Link to the download page (Itch.io)](https://lycorisbellua.itch.io/unreal-tutos)**  
 
 ## 3D Games
 
 | Screenshot | Title | Genre | Goal | Made with | Video |
 |:-:|---|---|---|:-:|:-:|
-| <img src="./speed-fire/screenshot.png" width="220"> | Speed Fire | FPS | Shoot all the targets before the timer runs out. | Blueprint | [Watch](https://www.youtube.com/watch?v=D7V08711XVw) |
+| <img src="./speed-fire/screenshot.png" width="220"> | Speed Fire | FPS | Shoot all the targets before the timer runs out. | Blueprint | [Watch](https://www.youtube.com/watch?v=CcuU16L29vU  ) |
 | <img src="./tumble/screenshot.png" width="220"> | Tumble | Physics | Knock everything over! | Blueprint | [Watch](https://www.youtube.com/watch?v=x4kxfi7gX9g) |
 | <img src="./descending-dude/screenshot.png" width="220"> | Descending Dude | Obstacle course | Don't fall off! | C++ | [Watch](https://www.youtube.com/watch?v=fpU7Z0kwa-8) |
 | <img src="./professional-yoinker/screenshot.png" width="220"> | Professional Yoinker | Exploration | Enter crypt, yoink golden statue, profit. | C++ | [Watch](https://www.youtube.com/watch?v=YyCMjWYiZ-E) |
